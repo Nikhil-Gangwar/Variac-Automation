@@ -1,3 +1,7 @@
+//################
+//CODE CREATED BY NIKHIL GANGWAR & SOMIL MAHESHWARI
+//We are Students of IIT Jodhpur
+//################
 // EmonLibrary examples openenergymonitor.org, Licence GNU GPL V3
 #include <Keypad.h>               //Include Keypad Library
 #include <ezButton.h>
@@ -215,3 +219,9 @@ int backrotation()
     }
   return 0;
 }
+
+
+//################
+//CODE CREATED BY NIKHIL GANGWAR & SOMIL MAHESHWARI
+//We are Students of IIT Jodhpur
+//################
